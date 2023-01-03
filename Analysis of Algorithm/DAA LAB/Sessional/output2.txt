@@ -1,0 +1,60 @@
+Output1:
+
+Number of operations in insertion sort: 0 7 21
+Number of operations in selection sort: 0 0 0
+
+Number of operations in insertion sort: 0 15 45
+Number of operations in selection sort: 0 0 0
+
+Number of operations in insertion sort: 0 31 93
+Number of operations in selection sort: 0 0 0
+
+Number of operations in insertion sort: 0 63 189
+Number of operations in selection sort: 0 0 0
+
+Number of operations in insertion sort: 0 127 381
+Number of operations in selection sort: 0 0 0
+
+
+
+
+Output2:
+
+Number of operations in insertion sort: 28 7 49
+Number of operations in selection sort: 16 4 28
+
+Number of operations in insertion sort: 120 15 165
+Number of operations in selection sort: 64 8 88
+
+Number of operations in insertion sort: 496 31 589
+Number of operations in selection sort: 256 16 304
+
+Number of operations in insertion sort: 2016 63 2205
+Number of operations in selection sort: 1024 32 1120
+
+Number of operations in insertion sort: 8128 127 8509
+Number of operations in selection sort: 4096 64 4288
+
+
+
+
+Output3:
+
+Number of operations in insertion sort: 16 7 37
+Number of operations in selection sort: 9 6 27
+
+Number of operations in insertion sort: 58 15 103
+Number of operations in selection sort: 27 14 69
+
+Number of operations in insertion sort: 204 31 297
+Number of operations in selection sort: 60 26 138
+
+Number of operations in insertion sort: 1011 63 1200
+Number of operations in selection sort: 180 60 360
+
+Number of operations in insertion sort: 4044 127 4425
+Number of operations in selection sort: 442 125 817
+
+
+
+
